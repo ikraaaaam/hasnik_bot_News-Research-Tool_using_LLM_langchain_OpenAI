@@ -1,5 +1,5 @@
 
-# RockyBot: News Research Tool 
+# Hasnik Bot: News Research Tool 
 
 RockyBot is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
 
@@ -18,7 +18,7 @@ RockyBot is a user-friendly news research tool designed for effortless informati
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/codebasics/langchain.git
+  git clone https://github.com/ikraaaaam/hasnik_bot_News-Research-Tool_using_LLM_langchain_OpenAI.git
 ```
 2.Navigate to the project directory:
 
