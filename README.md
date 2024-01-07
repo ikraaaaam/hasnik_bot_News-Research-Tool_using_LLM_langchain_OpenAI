@@ -8,7 +8,7 @@ RockyBot is a user-friendly news research tool designed for effortless informati
 ## Features
 
 - Load URLs or upload text files containing URLs to fetch article content.
-- Process article content through LangChain's UnstructuredURL Loader
+- Process article content through request and BeautifulSoup
 - Construct an embedding vector using OpenAI's embeddings and leverage FAISS, a powerful similarity search library, to enable swift and effective retrieval of relevant information
 - Interact with the LLM's (Chatgpt) by inputting queries and receiving answers along with source URLs.
 
@@ -56,9 +56,9 @@ streamlit run main.py
 - The FAISS index will be saved in a local file path in pickle format for future use.
 - One can now ask a question and get the answer based on those news articles
 - In video tutorial, we used following news articles
-  - https://www.moneycontrol.com/news/business/tata-motors-mahindra-gain-certificates-for-production-linked-payouts-11281691.html
-  - https://www.moneycontrol.com/news/business/tata-motors-launches-punch-icng-price-starts-at-rs-7-1-lakh-11098751.html
-  - https://www.moneycontrol.com/news/business/stocks/buy-tata-motors-target-of-rs-743-kr-choksey-11080811.html
+  - https://www.elprocus.com/what-is-a-switchgear-working-types-and-its-functions/
+  - https://www.ascopower.com/us/en/resources/articles/what-is-switchgear.jsp
+  - https://circuitglobe.com/switchgear.html
 
 ## Project Structure
 
