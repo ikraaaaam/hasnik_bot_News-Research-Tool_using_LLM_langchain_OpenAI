@@ -63,9 +63,9 @@ The application follows a modular RAG pipeline to ensure accuracy and low latenc
 > [!TIP]
 > Add your application screenshots here to showcase the UI.
 
-| Loading & Processing | Query & Results |
-| :---: | :---: |
-| ![Processing](docs/screenshots/processing.png) | ![Query](docs/screenshots/results.png) |
+|  Query & Results |
+| :---: |
+| ![Query](docs/screenshots/image.PNG) |
 
 ---
 
