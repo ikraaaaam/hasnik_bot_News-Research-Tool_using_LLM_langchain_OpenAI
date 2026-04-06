@@ -63,7 +63,7 @@ The application follows a modular RAG pipeline to ensure accuracy and low latenc
 
 ### 🔍 Query & Results
 
-![Query Result](docs/screenshots/image.PNG)
+![Query Result](docs/Screenshots/image.PNG)
 
 ---
 
