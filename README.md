@@ -60,12 +60,10 @@ The application follows a modular RAG pipeline to ensure accuracy and low latenc
 ---
 
 ## 📸 Screenshots
-> [!TIP]
-> Add your application screenshots here to showcase the UI.
 
-|  Query & Results |
-| :---: |
-| ![Query](docs/screenshots/image.PNG) |
+### 🔍 Query & Results
+
+![Query Result](docs/screenshots/image.PNG)
 
 ---
 
