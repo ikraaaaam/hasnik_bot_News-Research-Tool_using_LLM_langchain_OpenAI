@@ -16,12 +16,6 @@
 
 ---
 
-## 🌐 Live Demo
-> [!NOTE]
-> *Deployment link coming soon! For now, follow the local installation steps below.*
-
----
-
 ## 📖 Overview
 **Hasnik Bot** is a high-performance News Research Assistant built on a **Retrieval-Augmented Generation (RAG)** architecture. It empowers users to input multiple news URLs, process them into a searchable vector database, and perform semantic queries to extract precise information without reading through entire articles.
 
